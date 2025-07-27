@@ -41,3 +41,14 @@ target/
 *.war
 .env
 
+/target
+*.class
+*.log
+*.jar
+*.war
+*.iml
+.idea/
+/.vscode/
+/*.db
+application.properties
+
